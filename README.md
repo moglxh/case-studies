@@ -75,3 +75,7 @@ bash replay.sh nvabot
 - `web_sim.py`: harmless web server playing the legitimate site or the lookalike
 - `replay.sh`: the victim path (DNS lookup, connect, request)
 - `evidence.md`: Unbound configs and saved outputs
+
+## Case studies
+
+- [TypoPrompting: lookalike AI domains](case-studies/typoprompting/README.md): DNS answers are honest, the name is the weakness.
